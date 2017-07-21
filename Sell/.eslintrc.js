@@ -25,6 +25,11 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     'semi':['error','always'],
     'indent':0,
-    'space-before-function-paren':0
+    // 方法中括号后空格
+    'space-before-function-paren':0,
+    // 逗号后空格
+    // 'comma-spacing':0,
+    // 符号前空格
+    // 'space-before-blocks':0
   }
 }
