@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+/src/common/js/BaiduMap.js
+/map.html
+/index.html
+/city.html
