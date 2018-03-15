@@ -5,8 +5,11 @@ This README would normally document whatever steps are necessary to get your app
 
 ## 下载导入
 下载webstrom并安装
+
 下载npm和Node.js并安装，推荐配置阿里镜像cnpm
+
 下载源码Vue2.0,解压Sell-bate,推荐重命名Sell
+
 导入webstrom
 
 ## 运行测试
