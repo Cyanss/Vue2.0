@@ -1,6 +1,7 @@
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
+
 公司未上线并放弃的项目部分前端VUE2.0源码
 
 ## 下载导入
@@ -12,9 +13,12 @@ This README would normally document whatever steps are necessary to get your app
 
 导入webstrom
 
+
 ## 运行测试
 
 安装依赖
+
+打开webstrom Terminal窗口
 
 ```shell
 npm/cnpm install
