@@ -1,29 +1,28 @@
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
+公司未上线并放弃的项目部分前端VUE2.0源码
 
-### What is this repository for? ###
+## 下载导入
+下载webstrom并安装
+下载npm和Node.js并安装，推荐配置阿里镜像cnpm
+下载源码Vue2.0,解压Sell-bate,推荐重命名Sell
+导入webstrom
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## 运行测试
 
-### How do I get set up? ###
+安装依赖
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+```shell
+npm/cnpm install
+```
 
-### Contribution guidelines ###
+测试
 
-* Writing tests
-* Code review
-* Other guidelines
+```shell
+npm/cnpm run dev
+```
 
-### Who do I talk to? ###
+打开浏览器访问如下地址, 查看效果
 
-* Repo owner or admin
-* Other community or team contact
+> localhost:1111/sell/hot
